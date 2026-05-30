@@ -21,7 +21,7 @@ If you want to say **Thank You** and support the development of `Project Nebula`
 
 ## 💡 Support & Credits
 
-If you encounter any issues, bugs, or have feature requests, reach out on Discord:
+If you encounter any issues, bugs, or have feature requests, join and reach out on our [Discord](https://discord.gg/fWDgGZnWgT)
 
 > ⚠️ **IMPORTANT:** This is my only current account, I don't use any alternative accounts.
 
