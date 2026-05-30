@@ -1,5 +1,8 @@
 <h1 align="center">Project Nebula</h1>
 <p align="center">
+  <img src="pn-logo.jpg" alt="Miniblox Textures" width="300" />
+</p>
+<p align="center">
   <em>A mod-loader for Miniblox, will also include a couple mods made by me.</em>
 </p>
 
